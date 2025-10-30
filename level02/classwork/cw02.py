@@ -1,9 +1,9 @@
 
 
 name = ("bacho")
-print(name)
+print(type(name))
 
 num =  (21)
-print(type(name))
+print(type(num))
 
 

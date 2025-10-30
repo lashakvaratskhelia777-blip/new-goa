@@ -12,3 +12,5 @@ print("hello" +  "ussr_name")
  
 user_city = input(user_city)
 print("hello" + "user_city")
+
+

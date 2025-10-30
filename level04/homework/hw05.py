@@ -8,8 +8,7 @@ city= input("romel_qalaqsi_cxovrob")
 higty = input('ra_simagle_xar')
 
 
-
-print(name+ age+ surname+ city+ higty)
+print("me mqvia" + name)
 
 
 
